@@ -47,7 +47,7 @@ header nav{
 }
 
 header .highlight , header .current a{
-    color: #f4841a;
+    color: #f4b41a;
     font-weight: bold;
 }
 
@@ -165,7 +165,21 @@ header a:hover{
 color: #ffffff;
 background: #143d59;
 text-align: center;}
+ .slogan{
+     text-align: center;
+ }
+ #know-more{
+     display: none;
+ }
 
+ #name-validation , #email-validation , #password-validation{
+ color:red;
+ font-size: 14px;
+ display: none;}
+
+
+
+ 
 
 
 
