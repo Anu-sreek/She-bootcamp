@@ -9,7 +9,7 @@ function changecontent(){
     x.style.display="block";
     
     }
- }
+    }
     function validation()
     {
         let x=document.getElementById("name-input").value;
